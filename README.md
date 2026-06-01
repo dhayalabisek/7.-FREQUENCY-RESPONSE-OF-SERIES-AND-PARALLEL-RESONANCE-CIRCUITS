@@ -25,19 +25,15 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/22b4e81f-e2f2-437e-bac1-7caed9060831" />
 
 
 
-**Model graph:**
-
-
-
-
-**TABULATION:**
 
 
 **Calculation:**
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e562facc-ade7-4b95-bd70-63c67d8bd3c5" />
 
 
 
@@ -52,11 +48,12 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
-**Mark split up:**
+
 
 **RESULT:**
 
-Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/23875d22-60b2-4aae-bc13-564d13c61229" />
+
 
 
 
