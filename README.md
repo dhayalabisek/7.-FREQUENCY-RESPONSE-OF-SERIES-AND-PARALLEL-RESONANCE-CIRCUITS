@@ -27,6 +27,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/22b4e81f-e2f2-437e-bac1-7caed9060831" />
 
+<img width="1571" height="832" alt="image" src="https://github.com/user-attachments/assets/ba7406b7-be15-4322-927a-faba1bb66569" />
 
 
 
